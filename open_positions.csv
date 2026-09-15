@@ -1,1 +1,2 @@
 asset,kalshi_ticker,poly_slug,direction,window_start,close_time,combined_cost,cost_a,cost_b,logged_at
+ETH,KXETH15M-26SEP151545-45,eth-updown-15m-1789500600,B,2026-09-15T19:30:00+00:00,2026-09-15T19:45:00Z,0.79,1.21,0.79,2026-09-15T19:38:52.300748+00:00
